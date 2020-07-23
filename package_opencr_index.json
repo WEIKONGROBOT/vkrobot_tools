@@ -1312,7 +1312,7 @@
             }
           ]
         }
-          {
+        {
           "name": "OpenCR",
           "architecture": "OpenCR",
           "version": "1.4.16",
