@@ -42,7 +42,7 @@
           ]
         }
        
-      ],
+      ]
       "tools":[
         {
           "name": "opencr_gcc",
