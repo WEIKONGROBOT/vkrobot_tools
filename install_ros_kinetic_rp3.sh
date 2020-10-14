@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apache License 2.0
-# Copyright (c) 2017, ROBOTIS CO., LTD.
+# Copyright (c) 2017, VKROBOT CO., LTD.
 
 echo ""
 echo "[Note] Target OS version  >>> Ubuntu Mate for the Raspberry Pi"
